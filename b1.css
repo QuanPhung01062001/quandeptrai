@@ -1,0 +1,39 @@
+.box1{
+	width: 100%;
+	height: 400px;
+	background-color:#ebcc34;
+}
+.box1 .container .row .col{
+/*	background-color: gray;*/
+
+	}
+.box2{
+	width: 100%;
+	height: 350px;
+	background-color: #262521;
+}
+.box2 .container .row .col{
+	/*background-color: #CCC;*/
+	margin-left: 25px;
+}
+.box2 .container .row .diff2{
+	margin-right: 25px;
+}
+.box2 .container .row .diff{
+	margin:0 25px;
+}
+.box3{
+	width: 100%;
+	height:600px;
+	/*background-color: white;*/
+}
+.box4{
+	width: 100%;
+	height: 550px;
+	/*background-color: gray;*/
+}
+.box5{
+	width: 100%;
+	height: 120px;
+	background-color: #ccd12a;
+}
